@@ -12,9 +12,6 @@ Welcome to the repository of my Final Capstone Project in Machine Learning from 
 
 ![image](https://github.com/user-attachments/assets/91650571-bae2-4b91-85f0-8e7bdb9aff1c)
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Python](https://img.shields.io/badge/python-v3.8+-blue)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Classification-orange)
 
 Welcome to this repository, which showcases an in-depth analysis on improving classification performance for credit card fraud detection using **oversampling** and **undersampling** techniques.
 
