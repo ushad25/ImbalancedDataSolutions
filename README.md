@@ -27,7 +27,7 @@ By evaluating how these techniques affect the performance of various classificat
 
 ## 📂 Dataset
 
-- **Source**: Real-world **Credit Card Fraud Detection Dataset**
+- **Source**: Real-world **Credit Card Fraud Detection Dataset**https://data.world/vlad/credit-card-fraud-detection
 - **Records**: 284,807 transactions
 - **Features**: 30 anonymized variables (V1-V28), along with 'Amount' and 'Time'
 - **Target Variable**: 'Class' (0 = Non-fraud, 1 = Fraud)
